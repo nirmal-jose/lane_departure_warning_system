@@ -1,0 +1,7 @@
+# ignore csv files
+*.log
+
+# ignore dirs
+logs/
+output/
+__pycache__/

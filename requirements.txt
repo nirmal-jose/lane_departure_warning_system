@@ -1,0 +1,4 @@
+matplotlib
+moviepy
+numpy
+opencv-python
