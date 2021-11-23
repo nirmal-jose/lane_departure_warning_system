@@ -16,6 +16,11 @@
     * Warp the detected lane boundaries back onto the original image.
     * Print the road status into image
 
+</br>
+
+## Lane Departure Warning System Demo
+![gif_demo](output\project_video.gif)
+
 
 ### Reference
 1. [JunshengFu/driving-lane-departure-warning](https://github.com/JunshengFu/driving-lane-departure-warning)
