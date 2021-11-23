@@ -19,7 +19,7 @@
 </br>
 
 ## Lane Departure Warning System Demo
-![gif_demo](output\project_video.gif)
+![gif_demo](./output/project_video.gif)
 
 
 ### Reference
